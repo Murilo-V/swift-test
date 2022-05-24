@@ -2,15 +2,14 @@
 //  ContentView.swift
 //  swift-test
 //
-//  Created by Murilo Alves on 24/05/22.
+//  Created by Murilo on 24/05/22.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Text("Hello, world!").padding()
     }
 }
 
